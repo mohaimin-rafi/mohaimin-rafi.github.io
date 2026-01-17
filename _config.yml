@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Mohammad Abdul Mohaimin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Chittagong, Bangladesh"
-  employer         : "Abul Khair Group"
+  bio              : "A Mechanical Engineer"
+  location         : "Dhaka, Bangladesh"
+  employer         : "Bashundhara Oil and Gas Company Limited"
   uri              : # URL
   email            : "abdulmohaimin038@gmail.com" 
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -127,15 +127,15 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification : "Mohammad Abdul Mohaimin"
+bing_site_verification   : "Mohammad Abdul Mohaimin"
+alexa_site_verification  : "Mohammad Abdul Mohaimin"
+yandex_site_verification : "Mohammad Abdul Mohaimin"
 
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
