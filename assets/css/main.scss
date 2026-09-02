@@ -314,3 +314,100 @@ a {
     }
   }
 }
+
+/* Card and Box Layout Architecture (Inspired by mohaimin-rafi/web) */
+.academic-card {
+  background: #11141C !important;
+  border: 1px solid #222836 !important;
+  border-radius: 16px !important;
+  padding: 24px 28px !important;
+  margin-bottom: 28px !important;
+  box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.4) !important;
+  transition: all 0.2s ease !important;
+
+  &:hover {
+    border-color: #334155 !important;
+  }
+}
+
+.academic-subcard {
+  background: #0E121A !important;
+  border: 1px solid #1E2533 !important;
+  border-radius: 12px !important;
+  padding: 16px 20px !important;
+}
+
+.badge-blue {
+  background: rgba(30, 58, 138, 0.35) !important;
+  color: #93C5FD !important;
+  border: 1px solid rgba(59, 130, 246, 0.35) !important;
+  border-radius: 6px !important;
+  padding: 3px 10px !important;
+  font-size: 0.72rem !important;
+  font-weight: 600 !important;
+  font-family: 'JetBrains Mono', monospace !important;
+  display: inline-flex !important;
+  align-items: center;
+  gap: 6px;
+}
+
+.badge-green {
+  background: rgba(6, 78, 59, 0.35) !important;
+  color: #6EE7B7 !important;
+  border: 1px solid rgba(16, 185, 129, 0.35) !important;
+  border-radius: 6px !important;
+  padding: 3px 10px !important;
+  font-size: 0.72rem !important;
+  font-weight: 600 !important;
+  font-family: 'JetBrains Mono', monospace !important;
+  display: inline-flex !important;
+  align-items: center;
+  gap: 6px;
+}
+
+.badge-gray {
+  background: #161C26 !important;
+  color: #94A3B8 !important;
+  border: 1px solid #283244 !important;
+  border-radius: 6px !important;
+  padding: 3px 10px !important;
+  font-size: 0.72rem !important;
+  font-family: 'JetBrains Mono', monospace !important;
+  display: inline-flex !important;
+  align-items: center;
+  gap: 6px;
+}
+
+.grid-2 {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)) !important;
+  gap: 16px !important;
+  margin-top: 16px !important;
+  margin-bottom: 16px !important;
+}
+
+.grid-3 {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)) !important;
+  gap: 16px !important;
+  margin-top: 16px !important;
+  margin-bottom: 16px !important;
+}
+
+.pill-tag {
+  display: inline-flex !important;
+  align-items: center;
+  padding: 4px 10px !important;
+  border-radius: 8px !important;
+  font-size: 0.75rem !important;
+  font-weight: 500 !important;
+  background: #161C26 !important;
+  color: #E2E8F0 !important;
+  border: 1px solid #283244 !important;
+  margin: 3px 4px 3px 0 !important;
+  transition: border-color 0.15s ease;
+
+  &:hover {
+    border-color: #60A5FA !important;
+  }
+}

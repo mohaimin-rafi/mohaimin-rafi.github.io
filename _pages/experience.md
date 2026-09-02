@@ -7,84 +7,180 @@ author_profile: true
 
 {% include base_path %}
 
-## Professional Engineering Experience
+## Professional Experience
 
-### **Bashundhara Oil & Gas Company Limited (BOGCL)**
-**Assistant Engineer — Plant Inspection & Integrity**  
-*Jan 2026 – Present | Keraniganj, Dhaka*
+<!-- Job 1: BOGCL -->
+<div class="academic-card">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px; margin-bottom: 6px;">
+    <div>
+      <h3 style="margin: 0; font-size: 1.35rem; color: #FFFFFF; font-weight: 700;">Assistant Engineer — Plant Inspection & Integrity</h3>
+      <p style="color: #93C5FD; font-size: 0.95rem; font-weight: 500; margin: 4px 0 0 0;">
+        Bashundhara Oil & Gas Company Limited (BOGCL) <span style="color: #64748B;">•</span> Bitumen Plant & Refinery
+      </p>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span class="badge-blue"><i class="fas fa-calendar-alt"></i> Jan 2026 – Present</span>
+      <span class="badge-gray"><i class="fas fa-map-marker-alt"></i> Keraniganj, Dhaka</span>
+    </div>
+  </div>
 
-Responsible for the mechanical integrity, inspection planning, and reliability of **250+ static equipment assets** — including pressure vessels, columns, storage tanks, furnaces, boilers, heat exchangers, and process/utility/offsite piping — across a 200 TPH crude-oil refinery, ensuring full organizational compliance with API and ASME codes and standards while leading a team of four inspection/field personnel.
+  <div style="display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 16px 0;">
+    <span class="badge-blue">250+ Static Assets</span>
+    <span class="badge-gray">Crude Oil Refinery (200 TPH)</span>
+    <span class="badge-gray">API 510/570/653 & ASME BPVC</span>
+  </div>
 
-* **Asset Integrity Program Ownership:** Led and managed the end-to-end inspection program for 250+ static equipment assets, ensuring organizational compliance with API 510, 570, 653, 598, 576, 526, 527, 573, 571, 572, 574 and related codes, ASME BPVC Section V, Section VIII Div. 1, Section IX, and the ASME B31, B36, and B16 series.
-* **Inspection Documentation Systems:** Developed and institutionalized a structured, fully traceable inspection documentation and tracking system for 250+ assets in accordance with API 510, 570, and 653, creating a centralized repository of inspection, damage, and maintenance histories that improved audit-readiness, compliance tracking, and long-term integrity governance.
-* **Inspection Test Plans (ITPs):** Developed comprehensive Inspection Test Plans to standardize inspection procedures and intervals, optimizing maintenance requirements and reducing unscheduled plant downtime.
-* **Data-Driven Inspection Strategy:** Drove the development of a data-driven inspection program using historical inspection data and damage-mechanism analysis to optimize inspection intervals, reduce maintenance costs, and eliminate unnecessary work.
-* **Team Leadership:** Directed and mentored a team of four inspection professionals — setting performance standards, delegating technical responsibilities, and supervising daily NDE and inspection execution — fostering a culture of code compliance, quality consciousness, and operational discipline aligned with API 571 damage-mechanism awareness.
-* **Risk-Based Engineering Assessment:** Oversaw risk-based assessment of inspection findings, including damage-mechanism identification (API 571), corrosion-rate analysis, and remaining-life evaluation (API 510, 570, 653), translating technical data into actionable repair, replacement, upgrade, and modification decisions.
-* **NDT & Pressure Testing Programs:** Planned, coordinated, and reviewed multi-discipline NDT programs (VT, PT, MT, UT) per ASME Section V, and pressure-testing activities across diverse equipment categories per ASME Section VIII, ASME B31.3, and API 510/570, ensuring execution quality and full code conformance.
-* **Pressure Safety Devices:** Owned compliance oversight for all PSV/PRV testing programs per API 526/527/576, maintaining test schedules, evaluating outcomes against code provisions, and proactively adjusting retest frequencies per API 510 and ASME Section I/VIII requirements to manage risk and regulatory exposure.
-* **Field Quality Assurance:** Managed field QA activities including CUI assessments (API 583), welding inspection — pre-, in-process, and post-weld (ASME Section IX, AWS D1.1) — and coating inspection (surface preparation, profile, WFT, DFT) per SSPC/NACE standards, ensuring contractor and personnel compliance with quality and safety requirements.
-* **Repair, Turnaround & Shutdown Support:** Supported major maintenance, shutdown, overhaul, and refurbishment activities by recommending suitable repair methods per applicable engineering standards and verifying repair quality through inspection, NDT, and integrity testing.
-* **Root-Cause & Failure Investigation:** Drove failure investigation and risk mitigation through root-cause analysis, engineering assessments, and technical recommendations to address underlying degradation mechanisms and reduce recurrence.
-* **Material Quality Verification:** Coordinated material quality inspections for supplier samples and incoming engineering materials, verifying compliance with technical specifications and liaising with Supply Chain, vendors, and user departments to safeguard capital investment.
-* **Cross-Functional Coordination:** Coordinated inspection activities with Production, Mechanical Maintenance, Planning, and EHS teams to ensure equipment readiness, safe work execution, and minimal operational disruption.
-* **Technical Reporting:** Prepared and delivered technical documentation — inspection reports, equipment history records, damage assessments, and engineering recommendations — to support maintenance planning and long-term asset integrity, and to enable data-driven decisions for cross-functional stakeholders.
-* **Safety & Commissioning Reviews:** Represented the inspection function in pre-startup safety reviews (PSSR) per OSHA PSM/API RP 750 guidelines and major overhaul inspections, verifying equipment readiness and safe commissioning in line with applicable code, specification, and safety requirements.
+  <p style="font-size: 0.9rem; color: #CBD5E1; line-height: 1.7; margin-bottom: 16px;">
+    Assigned to the mechanical static equipment inspection, reliability, and asset-integrity function across a 200 TPH crude-oil refinery and bitumen plant. Responsible for baseline inspections, condition monitoring, turnaround QA/QC, and remaining-life assessment for 250+ pressurized assets and piping circuits.
+  </p>
+
+  <div class="grid-2">
+    <div class="academic-subcard">
+      <strong style="color: #60A5FA; font-size: 0.78rem; font-family: 'JetBrains Mono', monospace; text-transform: uppercase; display: block; margin-bottom: 8px;">
+        1. Integrity & Risk Assessment
+      </strong>
+      <ul style="font-size: 0.85rem; color: #CBD5E1; padding-left: 16px; margin: 0; line-height: 1.6;">
+        <li>Conducted structural integrity assessments, minimum required thickness calculations (t_min per ASME Sec VIII Div. 1 / B31.3), corrosion-rate evaluations, and remaining-life projections.</li>
+        <li>Identified active and potential damage mechanisms per API RP 571 (sulfidation, ammonium chloride corrosion, CUI, thermal fatigue).</li>
+        <li>Performed Fitness-for-Service (FFS) Level 1 screening assessments per API 579-1/ASME FFS-1 for observed metal loss and pitting.</li>
+      </ul>
+    </div>
+
+    <div class="academic-subcard">
+      <strong style="color: #34D399; font-size: 0.78rem; font-family: 'JetBrains Mono', monospace; text-transform: uppercase; display: block; margin-bottom: 8px;">
+        2. Inspection Systems & Planning
+      </strong>
+      <ul style="font-size: 0.85rem; color: #CBD5E1; padding-left: 16px; margin: 0; line-height: 1.6;">
+        <li>Developed comprehensive Strategic Inspection Planning frameworks and inspection-interval strategies.</li>
+        <li>Established corrosion loops and designated Condition Monitoring Locations (CMLs/TMLs) across piping circuits and vessels.</li>
+        <li>Led inspection planning, scope definition, and contractor oversight for planned unit shutdowns and turnaround activities.</li>
+      </ul>
+    </div>
+
+    <div class="academic-subcard">
+      <strong style="color: #F59E0B; font-size: 0.78rem; font-family: 'JetBrains Mono', monospace; text-transform: uppercase; display: block; margin-bottom: 8px;">
+        3. NDE & Field QA Oversight
+      </strong>
+      <ul style="font-size: 0.85rem; color: #CBD5E1; padding-left: 16px; margin: 0; line-height: 1.6;">
+        <li>Executed and audited Non-Destructive Examination (NDE: UT thickness gauging, DPI/PT, MPI per ASME Sec V).</li>
+        <li>Witnessed hydrostatic, pneumatic, and pressure-drop leak testing of piping, vessels, and valves per API 598 and ASME codes.</li>
+        <li>Supervised weld quality per ASME Sec IX, AWS D1.1, and surface preparation/coating inspection per SSPC/NACE standards.</li>
+      </ul>
+    </div>
+
+    <div class="academic-subcard">
+      <strong style="color: #A78BFA; font-size: 0.78rem; font-family: 'JetBrains Mono', monospace; text-transform: uppercase; display: block; margin-bottom: 8px;">
+        4. Failure Analysis & Asset Data
+      </strong>
+      <ul style="font-size: 0.85rem; color: #CBD5E1; padding-left: 16px; margin: 0; line-height: 1.6;">
+        <li>Led root-cause failure investigations (RCA) on leaking flanges, eroded thermowells, and degraded heat-exchanger tubes.</li>
+        <li>Managed asset integrity and plant maintenance records within SAP (PM Module).</li>
+        <li>Represented the inspection function in pre-startup safety reviews (PSSR) per OSHA PSM/API RP 750 guidelines.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Job 2: Abul Khair Group -->
+<div class="academic-card">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px; margin-bottom: 6px;">
+    <div>
+      <h3 style="margin: 0; font-size: 1.35rem; color: #FFFFFF; font-weight: 700;">Technical Management Trainee — Service Management</h3>
+      <p style="color: #93C5FD; font-size: 0.95rem; font-weight: 500; margin: 4px 0 0 0;">
+        Abul Khair Group <span style="color: #64748B;">•</span> Coffee Vending Machine Division
+      </p>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span class="badge-blue"><i class="fas fa-calendar-alt"></i> May 2025 – Dec 2025</span>
+      <span class="badge-gray"><i class="fas fa-map-marker-alt"></i> Pahartali, Chittagong</span>
+    </div>
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 16px 0;">
+    <span class="badge-blue">7,500+ Machines</span>
+    <span class="badge-gray">42 Machine Service Officers</span>
+    <span class="badge-gray">Nationwide Operations</span>
+  </div>
+
+  <div class="academic-subcard">
+    <ul style="font-size: 0.88rem; color: #CBD5E1; padding-left: 18px; margin: 0; line-height: 1.7;">
+      <li>Served as Divisional Technical Lead for coffee-vending-machine service operations across six divisions of Bangladesh, managing a nationwide fleet of 7,500+ machines.</li>
+      <li>Supervised and coordinated approximately 42 Machine Service Officers, establishing standardized maintenance protocols and ensuring maximum uptime.</li>
+      <li>Conducted field performance evaluations, analyzed breakdown trends and Customer Satisfaction Index (CSI) data to implement continuous reliability improvements.</li>
+      <li>Managed spare-parts inventory, forecasting demand, and coordinating international and local procurement pipelines.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Job 3: BAT Bangladesh -->
+<div class="academic-card">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px; margin-bottom: 6px;">
+    <div>
+      <h3 style="margin: 0; font-size: 1.35rem; color: #FFFFFF; font-weight: 700;">Industrial Trainee — Environment, Health & Safety (EHS)</h3>
+      <p style="color: #93C5FD; font-size: 0.95rem; font-weight: 500; margin: 4px 0 0 0;">
+        British American Tobacco Bangladesh <span style="color: #64748B;">•</span> Dhaka Factory
+      </p>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span class="badge-blue"><i class="fas fa-calendar-alt"></i> Jun 2024 – Jul 2024</span>
+      <span class="badge-gray"><i class="fas fa-map-marker-alt"></i> Mohakhali, Dhaka</span>
+    </div>
+  </div>
+
+  <div class="academic-subcard" style="margin-top: 14px;">
+    <ul style="font-size: 0.88rem; color: #CBD5E1; padding-left: 18px; margin: 0; line-height: 1.7;">
+      <li>Conducted technical assessment of the factory Effluent Treatment Plant (ETP), identifying operational bottlenecks and proposing pump upgrades and automated chemical dosing.</li>
+      <li>Developed process flow diagrams (PFDs) and standard analytical operating documentation from complex engineering P&IDs.</li>
+      <li>Benchmarked plant discharge parameters against Bangladesh Department of Environment (DoE) standards and international environmental compliance norms.</li>
+      <li>Gained operational familiarity with industrial utility systems: high-pressure steam boilers, HVAC, rotary screw air compressors, vacuum plants, and on-site power generation.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
-### **Abul Khair Group**
-**Technical Management Trainee — Service Management (Coffee Vending Machines)**  
-*May 2025 – Dec 2025 | Pahartali, Chittagong*
+## Leadership & Volunteer Activities
 
-Served as Divisional Technical Lead for coffee-vending-machine service operations across six divisions of Bangladesh, managing a fleet of **7,500+ machines** and a distributed team of approximately **42 Machine Service Officers**.
+<div class="academic-card">
+  <div class="grid-2">
+    <div class="academic-subcard">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+        <strong style="color: #FFFFFF; font-size: 0.92rem;">BUET Automobile Club</strong>
+        <span class="badge-blue">Vice President</span>
+      </div>
+      <p style="color: #94A3B8; font-size: 0.82rem; margin: 0;">Led executive body, organized inter-university CAD design competitions, automotive workshops, and sponsored student competitions.</p>
+    </div>
 
-* **Nationwide Service Operations:** Managed technical service operations for 7,500+ coffee vending machines across six divisions of Bangladesh, improving equipment availability, service performance, and customer satisfaction.
-* **Team Leadership:** Led and coordinated approximately 42 Machine Service Officers across geographically distributed regions, setting service standards and ensuring timely maintenance, operational efficiency, and maximum machine uptime.
-* **Field Performance Assessment:** Conducted regular market visits to assess Service Officer performance and gather direct customer feedback, generating insights for service-process and machine-design improvements.
-* **Data-Driven Reporting:** Prepared and maintained daily operational reports on pending tasks, machine breakdowns, and team performance; analyzed machine-breakdown trends and service metrics to implement data-driven improvement strategies; developed and analyzed the Customer Satisfaction Index (CSI) to evaluate and enhance service quality.
-* **Spare Parts & Procurement:** Managed spare-parts inventory and coordinated international and local procurement to maintain optimum stock levels and ensure uninterrupted field service operations.
-* **Cross-Functional Liaison:** Acted as liaison between Sales, Service, Logistics, and Supplier teams — as well as branding and business-development functions — to ensure smooth coordination and prompt resolution of technical and customer-related issues.
+    <div class="academic-subcard">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+        <strong style="color: #FFFFFF; font-size: 0.92rem;">AutoMaestro Formula Student Team</strong>
+        <span class="badge-blue">Treasurer & Core Member</span>
+      </div>
+      <p style="color: #94A3B8; font-size: 0.82rem; margin: 0;">Managed multi-thousand dollar project budgets, corporate sponsorship proposals, and assisted in racecar chassis and powertrain fabrication.</p>
+    </div>
 
----
+    <div class="academic-subcard">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+        <strong style="color: #FFFFFF; font-size: 0.92rem;">Class Representative (ME Batch 19)</strong>
+        <span class="badge-blue">2020 – 2025</span>
+      </div>
+      <p style="color: #94A3B8; font-size: 0.82rem; margin: 0;">Elected representative for 120+ students, liaising with department faculty and coordinating academic schedules across 5 years.</p>
+    </div>
 
-### **British American Tobacco Bangladesh**
-**Industrial Attachment — Industrial Trainee, Environment, Health & Safety (EHS) Department**  
-*Jun 2024 – Jul 2024 | Dhaka Factory, Mohakhali, Dhaka*
+    <div class="academic-subcard">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+        <strong style="color: #FFFFFF; font-size: 0.92rem;">NASA / IASC Asteroid Search</strong>
+        <span class="badge-green">Citizen Scientist</span>
+      </div>
+      <p style="color: #94A3B8; font-size: 0.82rem; margin: 0;">Analyzed Pan-STARRS astronomical telescope image sets using Astrometrica software, detecting multiple preliminary Main-Belt asteroid discoveries.</p>
+    </div>
 
-University-curriculum-required industrial attachment focused on wastewater treatment systems and factory utilities within the EHS department of BAT Bangladesh's Dhaka Factory.
-
-* **Process Assessment:** Conducted a technical assessment of the wastewater treatment (ETP) system, identifying operational inefficiencies and proposing upgrades such as alternative-pump selection, pump-installation corrections, and automated chemical dosing to improve accuracy and performance.
-* **Technical Documentation:** Developed detailed process flow diagrams (from complex P&IDs) and analytical reports on the wastewater treatment process, improving employee understanding and supporting further development and maintenance.
-* **Standards Benchmarking:** Compared existing plant processes against Bangladesh Department of Environment (DoE) and international environmental standards to identify equipment gaps and recommend improvements.
-* **Cross-Functional Collaboration:** Collaborated with technicians and operators to identify and resolve issues in the existing ETP setup.
-* **Utilities Exposure:** Reviewed EHS maintenance, risk-assessment, and environmental policies, and gained working knowledge of factory utilities including boilers, HVAC systems, compressor plants, vacuum plants, and the power-generation house.
-
----
-
-## Leadership & Volunteer Experience
-
-### **BUET Automobile Club**
-**Vice President** | *Sept 2024 – Mar 2025*
-* Led and organized multiple large-scale technical events at the **BUET Automobile Club Festival 2024** — one of BUET's largest student-led technical festivals — including a CAD competition with 150+ participants from 7 universities, a Poster Presentation Contest on Automobile Technology (50+ attendees), and workshops and student-reception programs engaging 200–400+ participants.
-* Directed logistics, budgeting, and cross-functional coordination for the festival.
-
-### **AutoMaestro — Formula Student Team, BUET**
-**Treasurer & Core Member, Logistics / Business Plan Development** | *Jan 2022 – Mar 2025*
-* Co-developed the commercialization strategy and Business Plan Presentation for the team's Formula car, achieving **49 out of 75 points** in the Business Plan Event at **Formula Bharat 2023** (Combustion Class).
-* Managed budgeting and sponsorship acquisition, presenting partnership proposals to industry organizations.
-* Managed team social-media presence on Instagram and Twitter, increasing engagement.
-
-### **Class Representative — ME Batch 19, Section A, BUET**
-**Student-Faculty Liaison** | *Feb–Sep 2021, Jun–Oct 2022*
-* Volunteered as class representative for two semesters, facilitating communication between faculty and students.
-
-### **International Astronomical Search Collaboration (IASC) Campaign**
-**Citizen-Science Researcher (NASA-affiliated)**
-* Participated in an asteroid search campaign organized by the International Astronomical Search Collaboration and NASA. During this campaign, our team discovered four new asteroids.
-* Developed teamwork skills, learned to maintain positive relationships within a team, and gained extensive knowledge about asteroids and deep space.
-
-### **Badhan — BUET Zone (Sher-e-Bangla Hall Unit)**
-**Financial Secretary**
-* Supported emergency blood-donor mobilization for a student-led humanitarian network, coordinating voluntary donors for 10+ patients and managing funds for operations and programs.
-* Organized awareness campaigns and orientation programs for newly admitted students to encourage long-term voluntary blood-donor participation.
+    <div class="academic-subcard">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+        <strong style="color: #FFFFFF; font-size: 0.92rem;">Badhan Blood Donation Network</strong>
+        <span class="badge-blue">Financial Secretary</span>
+      </div>
+      <p style="color: #94A3B8; font-size: 0.82rem; margin: 0;">Coordinated volunteer blood transfusion campaigns across BUET campus and managed student humanitarian relief funds.</p>
+    </div>
+  </div>
+</div>

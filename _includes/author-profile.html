@@ -38,6 +38,24 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+    </ul>
+
+    {% if author.linkedin or author.researchgate %}
+    <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 14px; padding-top: 12px; border-top: 1px solid #1E2533;">
+      {% if author.linkedin %}
+        <a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" class="badge-blue" style="font-size: 0.8rem; padding: 6px 12px; text-decoration: none; border-radius: 8px;">
+          <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
+      {% endif %}
+      {% if author.researchgate %}
+        <a href="{{ author.researchgate }}" target="_blank" class="badge-green" style="font-size: 0.8rem; padding: 6px 12px; text-decoration: none; border-radius: 8px;">
+          <i class="fab fa-researchgate"></i> ResearchGate
+        </a>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <ul class="author__urls social-icons" style="display: none;">
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}

@@ -9,71 +9,150 @@ author_profile: true
 
 ## Formal Education
 
-### **Bangladesh University of Engineering and Technology (BUET)**
-* **Degree:** Bachelor of Science in Mechanical Engineering
-* **Duration:** Feb 2020 – Mar 2025
-* **Relevant Coursework:** Mechanics of Solids, Numerical Analysis, Metallic Materials, Mechanics of Machinery, Machine Design, Composite Materials, Automobile Engineering.
-* **Research Interests:** Mechanics of Materials, Computational Mechanics, Composite Structures, Numerical Modeling, Nanomaterials, Material Failure Analysis.
+<div class="academic-card">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px; margin-bottom: 6px;">
+    <h3 style="margin: 0; font-size: 1.3rem; color: #FFFFFF; font-weight: 700;">Bachelor of Science in Mechanical Engineering</h3>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span class="badge-blue"><i class="fas fa-calendar-alt"></i> Feb 2020 – Mar 2025</span>
+      <span class="badge-gray"><i class="fas fa-map-marker-alt"></i> Dhaka, Bangladesh</span>
+    </div>
+  </div>
+  <p style="color: #93C5FD; font-weight: 500; margin: 0 0 12px 0; font-size: 0.95rem;">
+    Bangladesh University of Engineering and Technology (BUET) <span style="color: #64748B;">•</span> Department of Mechanical Engineering
+  </p>
+  <div style="margin-top: 14px; pt: 10px; border-top: 1px solid #1E2533;">
+    <p style="font-size: 0.88rem; color: #94A3B8; margin-bottom: 6px;"><strong>Relevant Coursework:</strong> Mechanics of Solids, Numerical Analysis, Metallic Materials, Mechanics of Machinery, Machine Design, Composite Materials, Automobile Engineering.</p>
+    <p style="font-size: 0.88rem; color: #94A3B8; margin: 0;"><strong>Research Interests:</strong> Mechanics of Materials, Computational Mechanics, Composite Structures, Numerical Modeling, Nanomaterials, Material Failure Analysis.</p>
+  </div>
+</div>
 
-### **Chittagong Collegiate School & College**
-* **Degree:** Higher Secondary Certificate (HSC)
-* **Year:** 2019
-* **GPA:** 5.00 / 5.00
+<div class="academic-card">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px; margin-bottom: 6px;">
+    <h3 style="margin: 0; font-size: 1.3rem; color: #FFFFFF; font-weight: 700;">Higher Secondary Certificate (HSC)</h3>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span class="badge-blue"><i class="fas fa-calendar-alt"></i> 2019</span>
+      <span class="badge-gray"><i class="fas fa-map-marker-alt"></i> Chittagong, Bangladesh</span>
+    </div>
+  </div>
+  <p style="color: #93C5FD; font-weight: 500; margin: 0 0 12px 0; font-size: 0.95rem;">
+    Chittagong Collegiate School & College <span style="color: #64748B;">•</span> Science Group
+  </p>
+  <div style="margin-top: 10px;">
+    <span class="badge-blue" style="font-size: 0.8rem; padding: 4px 12px;"><i class="fas fa-award"></i> GPA: 5.00 / 5.00</span>
+  </div>
+</div>
 
-### **Chittagong Model School & College**
-* **Degree:** Secondary School Certificate (SSC)
-* **Year:** 2017
-* **GPA:** 5.00 / 5.00
+<div class="academic-card">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px; margin-bottom: 6px;">
+    <h3 style="margin: 0; font-size: 1.3rem; color: #FFFFFF; font-weight: 700;">Secondary School Certificate (SSC)</h3>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span class="badge-blue"><i class="fas fa-calendar-alt"></i> 2017</span>
+      <span class="badge-gray"><i class="fas fa-map-marker-alt"></i> Chittagong, Bangladesh</span>
+    </div>
+  </div>
+  <p style="color: #93C5FD; font-weight: 500; margin: 0 0 12px 0; font-size: 0.95rem;">
+    Chittagong Model School & College <span style="color: #64748B;">•</span> Science Group
+  </p>
+  <div style="margin-top: 10px;">
+    <span class="badge-blue" style="font-size: 0.8rem; padding: 4px 12px;"><i class="fas fa-award"></i> GPA: 5.00 / 5.00</span>
+  </div>
+</div>
 
 ---
 
 ## Certifications & Professional Training
 
-* **ISO 9001:2015 Quality Management System (QMS) Internal Auditor**  
-  *Certified by Bashundhara Oil & Gas Company Ltd., 2026*
-* **ISO 14001:2015 Environmental Management System (EMS) Internal Auditor**  
-  *Training by Bashundhara Oil & Gas Company Ltd., 2026*
-* **Pressure Vessel Design, Fabrication, Inspection, and Testing as per ASME BPVC**  
-  *Short Course, Directorate of Continuing Education (DCE), Bangladesh University of Engineering and Technology (BUET)*
+<div class="academic-card">
+  <div style="display: flex; flex-direction: column; gap: 14px;">
+    <div class="academic-subcard">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px; margin-bottom: 4px;">
+        <span style="color: #FFFFFF; font-weight: 600; font-size: 0.95rem;">ISO 9001:2015 Quality Management System (QMS) Internal Auditor</span>
+        <span class="badge-green">Certified 2026</span>
+      </div>
+      <p style="color: #94A3B8; font-size: 0.85rem; margin: 0;">Bashundhara Oil & Gas Company Ltd.</p>
+    </div>
+
+    <div class="academic-subcard">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px; margin-bottom: 4px;">
+        <span style="color: #FFFFFF; font-weight: 600; font-size: 0.95rem;">ISO 14001:2015 Environmental Management System (EMS) Internal Auditor</span>
+        <span class="badge-green">Training 2026</span>
+      </div>
+      <p style="color: #94A3B8; font-size: 0.85rem; margin: 0;">Bashundhara Oil & Gas Company Ltd.</p>
+    </div>
+
+    <div class="academic-subcard">
+      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px; margin-bottom: 4px;">
+        <span style="color: #FFFFFF; font-weight: 600; font-size: 0.95rem;">Pressure Vessel Design, Fabrication, Inspection, and Testing as per ASME BPVC</span>
+        <span class="badge-blue">Short Course</span>
+      </div>
+      <p style="color: #94A3B8; font-size: 0.85rem; margin: 0;">Directorate of Continuing Education (DCE), Bangladesh University of Engineering and Technology (BUET)</p>
+    </div>
+  </div>
+</div>
 
 ---
 
 ## Online Courses & Continued Learning
 
-* **CS50's Introduction to Computer Science** — HarvardX (edX)
-* **Python for Everybody Specialization (5 courses)** — HarvardX (edX)
-* **Introduction to Programming with MATLAB** — Vanderbilt University (Coursera)
-* **Excel Skills for Business: Essentials** — Macquarie University (Coursera)
-* **edX Verified Certificate for Python Basics for Data Science** — edX
+<div class="academic-card">
+  <div class="grid-2">
+    <div class="academic-subcard">
+      <span style="color: #FFFFFF; font-weight: 600; font-size: 0.9rem; display: block; margin-bottom: 2px;">CS50's Introduction to Computer Science</span>
+      <span style="color: #93C5FD; font-size: 0.82rem;">HarvardX (edX)</span>
+    </div>
+    <div class="academic-subcard">
+      <span style="color: #FFFFFF; font-weight: 600; font-size: 0.9rem; display: block; margin-bottom: 2px;">Python for Everybody Specialization (5 courses)</span>
+      <span style="color: #93C5FD; font-size: 0.82rem;">HarvardX (edX)</span>
+    </div>
+    <div class="academic-subcard">
+      <span style="color: #FFFFFF; font-weight: 600; font-size: 0.9rem; display: block; margin-bottom: 2px;">Introduction to Programming with MATLAB</span>
+      <span style="color: #93C5FD; font-size: 0.82rem;">Vanderbilt University (Coursera)</span>
+    </div>
+    <div class="academic-subcard">
+      <span style="color: #FFFFFF; font-weight: 600; font-size: 0.9rem; display: block; margin-bottom: 2px;">Excel Skills for Business: Essentials</span>
+      <span style="color: #93C5FD; font-size: 0.82rem;">Macquarie University (Coursera)</span>
+    </div>
+  </div>
+</div>
 
 ---
 
 ## Core Competencies & Skills
 
-### **Research & Computational Analysis**
-* **Computational Mechanics & Numerical Modeling:** Finite Difference Method (FDM), iterative numerical solvers, electro-thermo-mechanical coupled field formulation, displacement potential function methodology, classical lamination theory.
-* **Engineering Simulation & CFD:** Multiphysics modeling, finite element analysis (FEA), 3D computational fluid dynamics (CFD) parametric analysis.
+<div class="academic-card">
+  <h3 style="margin-top: 0; font-size: 1.15rem; color: #60A5FA; display: flex; align-items: center; gap: 8px;">
+    <i class="fas fa-microchip"></i> Research & Computational Analysis
+  </h3>
+  <div style="margin-bottom: 16px;">
+    <p style="font-size: 0.92rem; color: #CBD5E1; margin-bottom: 6px;"><strong>Computational Mechanics & Numerical Modeling:</strong> Finite Difference Method (FDM), iterative numerical solvers, electro-thermo-mechanical coupled field formulation, displacement potential function methodology, classical lamination theory.</p>
+    <p style="font-size: 0.92rem; color: #CBD5E1; margin: 0;"><strong>Engineering Simulation & CFD:</strong> Multiphysics modeling, finite element analysis (FEA), 3D computational fluid dynamics (CFD) parametric analysis.</p>
+  </div>
 
-### **Software & Technical Tools**
-* **MATLAB** — *Intermediate Level*: Applied in undergraduate thesis (PDE formulation, FDM iterative solvers) and engineering design.
-* **Python** — *Intermediate Level*: Applied in undergraduate project and data analytics.
-* **ANSYS (Workbench)** — *Intermediate Level*: Applied in finite element modeling for undergraduate project and thesis analysis.
-* **SimScale** — *Intermediate Level*: Applied in 3D CFD flow mixing and heat transfer enhancement analysis using hexahedral meshing.
-* **SolidWorks & AutoCAD** — *Intermediate Level*: Applied in 3D CAD modeling, prototyping, and mechanical fabrication drawings across undergraduate projects.
-* **COMSOL Multiphysics** — *Intermediate Level*: Applied in thesis multiphysics modeling and FEA validation.
-* **Abaqus** — *Introductory Level*: Applied in finite element structural and stress analysis for thesis research.
-* **HTRI** — *Introductory Level*: Applied in heat exchanger rating and thermal equipment design in academic project and professional industrial evaluation.
-* **LaTeX** — *Beginner to Intermediate Level*: Applied in undergraduate thesis book composition and academic manuscript drafting.
-* **Microsoft Office Suite (Excel, Word, PowerPoint)** — *Advanced Level*: Applied in engineering calculations, data-driven reporting, technical presentations, and daily workflows.
-* **Canva** — *Advanced Level*: Applied across various projects, theses, programs, and professional presentations.
-* **SAP (PM Module)**: Applied in plant maintenance management and technical asset integrity workflows.
+  <h3 style="font-size: 1.15rem; color: #60A5FA; display: flex; align-items: center; gap: 8px; margin-top: 20px;">
+    <i class="fas fa-laptop-code"></i> Software & Technical Tools
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
+    <span class="pill-tag"><strong style="color:#60A5FA">MATLAB:</strong>&nbsp;Intermediate (FDM, PDEs, Solver)</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">Python:</strong>&nbsp;Intermediate (Data Analysis, Scripting)</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">ANSYS Workbench:</strong>&nbsp;Intermediate (FEA Modeling)</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">COMSOL Multiphysics:</strong>&nbsp;Intermediate (Multiphysics FEA)</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">SimScale:</strong>&nbsp;Intermediate (3D Hexahedral CFD)</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">SolidWorks & AutoCAD:</strong>&nbsp;Intermediate (3D CAD, Fabrication)</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">LaTeX:</strong>&nbsp;Beginner to Intermediate (Manuscript, Thesis)</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">Abaqus:</strong>&nbsp;Introductory (Structural FEA)</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">HTRI:</strong>&nbsp;Introductory (Thermal Rating)</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">SAP (PM Module):</strong>&nbsp;Plant Maintenance & Asset Integrity</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">MS Office Suite:</strong>&nbsp;Advanced</span>
+    <span class="pill-tag"><strong style="color:#60A5FA">Canva:</strong>&nbsp;Advanced</span>
+  </div>
 
-### **Analytical & Integrity Engineering**
-* **Failure Analysis & Root-Cause Investigation (RCA):** Root-cause failure analysis, damage-mechanism identification (API 571), material degradation and corrosion mechanism assessment.
-* **Structural & Asset Integrity Assessment:** Remaining-life evaluation, Fitness-for-Service (FFS) screening, corrosion-rate calculations, and Strategic Inspection Planning.
-* **Inspection & Quality Verification:** Non-Destructive Examination (NDE: VT, PT, MT, UT per ASME Sec V), hydrostatic and pneumatic pressure testing, weld inspection (ASME Sec IX, AWS D1.1), and protective coating inspection (SSPC/NACE).
-* **Codes & Standards:** API 510, API 570, API 653, API 598, API 526/527/576, API RP 571, RP 572, RP 573, RP 574, RP 583, API RP 750; ASME BPVC (Sec I, Sec V, Sec VIII Div. 1, Sec IX); ASME B31 Series (B31.3), B36, B16.
-
-### **Operations & Quality Management**
-* **Management Systems & Quality:** ISO 9001:2015 QMS Internal Auditor, ISO 14001:2015 EMS Internal Auditor, HSE compliance, asset & inventory management, spare-parts procurement coordination.
-* **Leadership & Cross-Functional Coordination:** Team supervision and mentoring, stakeholder management, cross-functional coordination (Production, Maintenance, Planning, EHS, Supply Chain), technical presentations.
+  <h3 style="font-size: 1.15rem; color: #60A5FA; display: flex; align-items: center; gap: 8px; margin-top: 20px;">
+    <i class="fas fa-tools"></i> Analytical & Integrity Engineering
+  </h3>
+  <div style="font-size: 0.92rem; color: #CBD5E1;">
+    <p style="margin-bottom: 6px;"><strong>Failure Analysis & RCA:</strong> Root-cause failure analysis, damage-mechanism identification (API 571), material degradation and corrosion mechanism assessment.</p>
+    <p style="margin-bottom: 6px;"><strong>Structural & Asset Integrity:</strong> Remaining-life evaluation, Fitness-for-Service (FFS) screening, corrosion-rate calculations, and Strategic Inspection Planning.</p>
+    <p style="margin-bottom: 6px;"><strong>Inspection & Quality Verification:</strong> Non-Destructive Examination (NDE: VT, PT, MT, UT per ASME Sec V), hydrostatic and pneumatic pressure testing, weld inspection (ASME Sec IX, AWS D1.1), protective coating inspection (SSPC/NACE).</p>
+    <p style="margin: 0;"><strong>Codes & Standards:</strong> API 510, API 570, API 653, API 598, API 526/527/576, API RP 571, RP 572, RP 573, RP 574, RP 583, API RP 750; ASME BPVC (Sec I, Sec V, Sec VIII Div. 1, Sec IX); ASME B31.3, B36, B16.</p>
+  </div>
+</div>
