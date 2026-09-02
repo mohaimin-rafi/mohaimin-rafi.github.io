@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Mohammad Abdul Mohaimin"
 description              : &description "Academic and Professional Portfolio of Mohammad Abdul Mohaimin — Mechanical Engineer"
 url                      : "https://mohaimin-rafi.github.io" # The base hostname & protocol for your site
-baseurl                  : "/web" # the subpath of your site, e.g. "/blog"
-repository               : "mohaimin-rafi/web"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "mohaimin-rafi/mohaimin-rafi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
