@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="margin-bottom: 20px;">
-  <a href="/files/Mohammad_Abdul_Mohaimin_CV.pdf" class="btn btn--primary" target="_blank"><i class="fas fa-file-pdf"></i> Download Full Master CV (PDF)</a>
+  <a href="/files/Mohammad_Abdul_Mohaimin_CV.pdf" class="btn btn--primary" target="_blank"><i class="fas fa-file-pdf"></i> Curriculum Vitae (PDF)</a>
 </div>
 
 # MOHAMMAD ABDUL MOHAIMIN
@@ -29,15 +29,32 @@ Mechanical Engineering graduate from Bangladesh University of Engineering and Te
 
 ### **Bangladesh University of Engineering and Technology (BUET)**
 * **Bachelor of Science in Mechanical Engineering** | Feb 2020 – Mar 2025
-* **CGPA:** 3.30 / 4.00
 * **Relevant Coursework:** Mechanics of Solids, Numerical Analysis, Metallic Materials, Mechanics of Machinery, Machine Design, Composite Materials, Automobile Engineering.
 * **Research Interests:** Mechanics of Materials, Computational Mechanics, Composite Structures, Numerical Modeling, Nanomaterials, Material Failure Analysis.
 
 ### **Chittagong Collegiate School & College**
 * **Higher Secondary Certificate (HSC)** | 2019
+* **GPA:** 5.00 / 5.00
 
 ### **Chittagong Model School & College**
 * **Secondary School Certificate (SSC)** | 2017
+* **GPA:** 5.00 / 5.00
+
+---
+
+## PUBLICATIONS & MANUSCRIPTS
+
+### **Electro-thermo-mechanical coupling in functionally-graded composite laminates: A Displacement-Function approach**
+*Authors:* Md Shah Wali Ullah, Tonima Islam, **Mohammad Abdul Mohaimin**, Md Nahid Shahriare, S Reaz Ahmed  
+*Status:* Manuscript is ready; Under Preparation for Submission  
+*Document:* [View / Download Manuscript PDF](/files/Electro_Thermo_Mechanical_Coupling_Manuscript.pdf)  
+*Abstract:* Reliable and efficient modeling of the coupled electro-thermo-mechanical response of functionally graded metal-matrix composite laminates is of utmost practical importance for the safe and economic design of multifunctional load-bearing structures subjected to electrical and thermal environments. In the present research, a novel displacement-function-based semi-analytical framework has been developed for investigating the multiphysics behavior of functionally graded composite laminates under current-induced electro-thermal loading. The electrical, thermal, and mechanical fields are sequentially coupled by incorporating temperature-dependent electro-thermal material properties and Joule heating effects. In the proposed formulation, the coupled thermomechanical equilibrium problem is modeled through a single scalar function, governed by a fourth-order partial differential equation of equilibrium, from which laminate strains and ply-level stresses are systematically derived. The proposed modeling scheme is applied to Al-SiC functionally graded symmetric laminates with gradually varying SiC reinforcement volume fraction across the thickness, characterized by a power-law grading function. Parametric investigations reveal that the grading profile, applied current density, and internal heat generation strongly govern the electrical potential distribution, temperature evolution, and stress development within the laminate. The predicted electro-thermo-mechanical responses are validated against finite-element simulations, showing excellent agreement and confirming the accuracy of the model. The proposed formulation provides an efficient and physically transparent framework for analyzing electro-thermo-mechanical interactions in functionally graded composite laminates and offers a viable alternative to computationally intensive conventional numerical approaches for advanced multifunctional material design.
+
+### **Assessment of Landfill Gas-to-Energy Potential and Technologies at Arefin Nagar and Fatehabad Landfills Using Site-Specific LandGEM Modeling**
+*Authors:* Pritam Biswangri, Ayan Chowdhury, Amitav Mandal, **Mohammad Abdul Mohaimin**  
+*Venue:* 8th International Conference on Chemical Engineering (ICCHE 2026), BUET (2026) — Status: Accepted for Presentation (December 2026)  
+*Document:* [View / Download Conference Paper PDF](/files/Landfill_Gas_to_Energy_Paper.pdf)  
+*Abstract:* The second-largest city in Bangladesh, Chattogram, produces over 3,000 tonnes of municipal solid waste (MSW) every day. The majority of this trash is dumped in open dumpsites at Arefin Nagar and Anandabazar without leachate treatment or gas control systems. Since organic waste makes up 62-73% of the MSW stream, anaerobic decomposition produces large amounts of landfill gas (LFG) that are now released uncontrollably into the atmosphere, posing both greenhouse gas and public health risks to nearby communities. As Chattogram City Corporation prepares to transition disposal operations to a new engineered landfill at Fatehabad by 2027, a critical opportunity exists to integrate gas-to-energy infrastructure into both the closing and incoming sites. This study projects methane generation at Arefin Nagar and Fatehabad through 2090 using the USEPA LandGEM v3.02 Site Specific-1 (SP-1) model calibrated with locally determined parameters. According to modeling data, peak methane generation was 19,647 Mg yr⁻¹ at Arefin Nagar (2027) and 22,600 Mg yr⁻¹ at Fatehabad (2038). From 2030 to 2041, the overall generation exceeded 20,000 Mg yr⁻¹. Converting this LFG to electricity via reciprocating IC engines yields peak recoverable outputs of 71.7 GWh/yr and 82.5 GWh/yr at the two sites, respectively, rising to over 130 GWh/yr under combined heat-and-power (CHP) operation at higher collection efficiency. Based on these findings, LFG recovery via reciprocating IC engines is identified as the most technically and economically suitable near-term energy extraction technique for Chattogram, owing to its compatibility with high-moisture organic waste, modular low-cost deployment (USD 1,000-2,500/kW), and ability to capture methane already accumulated within existing waste mass. The waste stream’s high moisture content and low calorific value (3-5 MJ/kg) make incineration, pyrolysis, and gasification inappropriate. Anaerobic digestion is recommended as a complementary medium-term pathway for fresh organic waste, subject to the development of source-separation infrastructure. A phased implementation strategy is proposed, beginning with LFG well-field deployment at Arefin Nagar ahead of its 2026-2027 closure.
 
 ---
 
@@ -90,22 +107,6 @@ Conducted a comprehensive environmental and thermo-chemical feasibility study of
 
 ---
 
-## PUBLICATIONS & MANUSCRIPTS
-
-### **Electro-thermo-mechanical coupling in functionally-graded composite laminates: A Displacement-Function approach**
-*Authors:* Md Shah Wali Ullah, Tonima Islam, **Mohammad Abdul Mohaimin**, Md Nahid Shahriare, S Reaz Ahmed  
-*Status:* Manuscript is ready; Under Preparation for Submission  
-*Document:* [View / Download Manuscript PDF](/files/Electro_Thermo_Mechanical_Coupling_Manuscript.pdf)  
-*Abstract:* Reliable and efficient modeling of the coupled electro-thermo-mechanical response of functionally graded metal-matrix composite laminates is of utmost practical importance for the safe and economic design of multifunctional load-bearing structures subjected to electrical and thermal environments. In the present research, a novel displacement-function-based semi-analytical framework has been developed for investigating the multiphysics behavior of functionally graded composite laminates under current-induced electro-thermal loading. The electrical, thermal, and mechanical fields are sequentially coupled by incorporating temperature-dependent electro-thermal material properties and Joule heating effects. In the proposed formulation, the coupled thermomechanical equilibrium problem is modeled through a single scalar function, governed by a fourth-order partial differential equation of equilibrium, from which laminate strains and ply-level stresses are systematically derived. The proposed modeling scheme is applied to Al-SiC functionally graded symmetric laminates with gradually varying SiC reinforcement volume fraction across the thickness, characterized by a power-law grading function. Parametric investigations reveal that the grading profile, applied current density, and internal heat generation strongly govern the electrical potential distribution, temperature evolution, and stress development within the laminate. The predicted electro-thermo-mechanical responses are validated against finite-element simulations, showing excellent agreement and confirming the accuracy of the model. The proposed formulation provides an efficient and physically transparent framework for analyzing electro-thermo-mechanical interactions in functionally graded composite laminates and offers a viable alternative to computationally intensive conventional numerical approaches for advanced multifunctional material design.
-
-### **Assessment of Landfill Gas-to-Energy Potential and Technologies at Arefin Nagar and Fatehabad Landfills Using Site-Specific LandGEM Modeling**
-*Authors:* Pritam Biswangri, Ayan Chowdhury, Amitav Mandal, **Mohammad Abdul Mohaimin**  
-*Venue:* 8th International Conference on Chemical Engineering (ICCHE 2026), BUET (2026) — Status: Accepted for Presentation (December 2026)  
-*Document:* [View / Download Conference Paper PDF](/files/Landfill_Gas_to_Energy_Paper.pdf)  
-*Abstract:* The second-largest city in Bangladesh, Chattogram, produces over 3,000 tonnes of municipal solid waste (MSW) every day. The majority of this trash is dumped in open dumpsites at Arefin Nagar and Anandabazar without leachate treatment or gas control systems. Since organic waste makes up 62-73% of the MSW stream, anaerobic decomposition produces large amounts of landfill gas (LFG) that are now released uncontrollably into the atmosphere, posing both greenhouse gas and public health risks to nearby communities. As Chattogram City Corporation prepares to transition disposal operations to a new engineered landfill at Fatehabad by 2027, a critical opportunity exists to integrate gas-to-energy infrastructure into both the closing and incoming sites. This study projects methane generation at Arefin Nagar and Fatehabad through 2090 using the USEPA LandGEM v3.02 Site Specific-1 (SP-1) model calibrated with locally determined parameters. According to modeling data, peak methane generation was 19,647 Mg yr⁻¹ at Arefin Nagar (2027) and 22,600 Mg yr⁻¹ at Fatehabad (2038). From 2030 to 2041, the overall generation exceeded 20,000 Mg yr⁻¹. Converting this LFG to electricity via reciprocating IC engines yields peak recoverable outputs of 71.7 GWh/yr and 82.5 GWh/yr at the two sites, respectively, rising to over 130 GWh/yr under combined heat-and-power (CHP) operation at higher collection efficiency. Based on these findings, LFG recovery via reciprocating IC engines is identified as the most technically and economically suitable near-term energy extraction technique for Chattogram, owing to its compatibility with high-moisture organic waste, modular low-cost deployment (USD 1,000-2,500/kW), and ability to capture methane already accumulated within existing waste mass. The waste stream’s high moisture content and low calorific value (3-5 MJ/kg) make incineration, pyrolysis, and gasification inappropriate. Anaerobic digestion is recommended as a complementary medium-term pathway for fresh organic waste, subject to the development of source-separation infrastructure. A phased implementation strategy is proposed, beginning with LFG well-field deployment at Arefin Nagar ahead of its 2026-2027 closure.
-
----
-
 ## PROFESSIONAL EXPERIENCE
 
 ### **Bashundhara Oil & Gas Company Limited (BOGCL)**
@@ -116,9 +117,9 @@ Responsible for the mechanical integrity, inspection planning, and reliability o
 * **Asset Integrity Program Ownership:** Led and managed the end-to-end inspection program for 250+ static equipment assets, ensuring organizational compliance with API 510, 570, 653, 598, 576, 526, 527, 573, 571, 572, 574 and related codes, ASME BPVC Section V, Section VIII Div. 1, Section IX, and the ASME B31, B36, and B16 series.
 * **Inspection Documentation Systems:** Developed and institutionalized a structured, fully traceable inspection documentation and tracking system for 250+ assets in accordance with API 510, 570, and 653, creating a centralized repository of inspection, damage, and maintenance histories that improved audit-readiness, compliance tracking, and long-term integrity governance.
 * **Inspection Test Plans (ITPs):** Developed comprehensive Inspection Test Plans to standardize inspection procedures and intervals, optimizing maintenance requirements and reducing unscheduled plant downtime.
-* **Data-Driven Inspection Strategy:** Drove the development of a data-driven inspection program using historical inspection data and damage-mechanism analysis to optimize inspection intervals, reduce maintenance costs, and eliminate unnecessary work.
+* **Strategic Inspection Planning:** Drove the development of a data-driven inspection program using historical inspection data and damage-mechanism analysis to optimize inspection intervals, reduce maintenance costs, and eliminate unnecessary work.
 * **Team Leadership:** Directed and mentored a team of four inspection professionals — setting performance standards, delegating technical responsibilities, and supervising daily NDE and inspection execution — fostering a culture of code compliance, quality consciousness, and operational discipline aligned with API 571 damage-mechanism awareness.
-* **Risk-Based Engineering Assessment:** Oversaw risk-based assessment of inspection findings, including damage-mechanism identification (API 571), corrosion-rate analysis, and remaining-life evaluation (API 510, 570, 653), translating technical data into actionable repair, replacement, upgrade, and modification decisions.
+* **Engineering Risk Assessment:** Oversaw technical assessment of inspection findings, including damage-mechanism identification (API 571), corrosion-rate analysis, and remaining-life evaluation (API 510, 570, 653), translating technical data into actionable repair, replacement, upgrade, and modification decisions.
 * **NDT & Pressure Testing Programs:** Planned, coordinated, and reviewed multi-discipline NDT programs (VT, PT, MT, UT) per ASME Section V, and pressure-testing activities across diverse equipment categories per ASME Section VIII, ASME B31.3, and API 510/570, ensuring execution quality and full code conformance.
 * **Pressure Safety Devices:** Owned compliance oversight for all PSV/PRV testing programs per API 526/527/576, maintaining test schedules, evaluating outcomes against code provisions, and proactively adjusting retest frequencies per API 510 and ASME Section I/VIII requirements to manage risk and regulatory exposure.
 * **Field Quality Assurance:** Managed field QA activities including CUI assessments (API 583), welding inspection — pre-, in-process, and post-weld (ASME Section IX, AWS D1.1) — and coating inspection (surface preparation, profile, WFT, DFT) per SSPC/NACE standards, ensuring contractor and personnel compliance with quality and safety requirements.
@@ -171,14 +172,34 @@ University-curriculum-required industrial attachment focused on wastewater treat
 ---
 
 ## CORE COMPETENCIES & SKILLS
-* **Reliability & Integrity:** Mechanical Integrity Management, Condition Monitoring, Risk-Based Inspection (RBI) Planning, Damage-Mechanism Identification, Corrosion-Rate & Remaining-Life Assessment, Root-Cause Failure Analysis, Fitness-for-Service Screening
-* **Inspection & Testing:** Non-Destructive Testing/Examination (VT, PT, MT, UT), Hydrostatic & Pneumatic Pressure Testing, PSV/PRV Testing & Retest-Interval Management, CUI Assessment, Welding Inspection (pre-, in-process, post-weld), Coating Inspection (surface prep, profile, WFT/DFT), Shutdown & Turnaround Inspection, Repair-Quality Verification, Incoming-Material Quality Verification
-* **Codes & Standards:** API 510, API 570, API 653, API 598, API 526, API 527, API 560, API RP 571, RP 572, RP 573, RP 574, RP 576, RP 583, API RP 750; ASME BPVC Section I, Section V, Section VIII Div. 1, Section IX; ASME B31 Series (incl. B31.3), B36 Series, B16 Series; AWS D1.1; SSPC/NACE Coating Standards; OSHA PSM; ASTM Standards
-* **Engineering Software:** SolidWorks, AutoCAD, ANSYS Workbench, COMSOL Multiphysics, SimScale, Abaqus, HTRI
-* **Programming & Analytics:** MATLAB, Python, C, SAP (PM Module), Microsoft Excel (incl. data-driven reporting & KPI tracking)
-* **Operations & Quality:** HSE Compliance, Asset & Inventory Management, Spare-Parts Planning & Procurement Coordination, Production Planning, Technical & Inspection Reporting, Documentation & Traceability Systems, Customer Satisfaction Index (CSI) Development
-* **Leadership & Collaboration:** Team Supervision & Mentoring, Cross-Functional Coordination (Production, Maintenance, Planning, EHS, Supply Chain), Stakeholder Management, Technical Presentations
-* **Other Tools:** LaTeX, MS Office (Word, PowerPoint, Excel), Canva
+
+### **Research & Computational Analysis**
+* **Computational Mechanics & Numerical Modeling:** Finite Difference Method (FDM), iterative numerical solvers, electro-thermo-mechanical coupled field formulation, displacement potential function methodology, classical lamination theory.
+* **Engineering Simulation & CFD:** Multiphysics modeling, finite element analysis (FEA), 3D computational fluid dynamics (CFD) parametric analysis.
+
+### **Software & Technical Tools**
+* **MATLAB** — *Intermediate Level*: Applied in undergraduate thesis (PDE formulation, FDM iterative solvers) and engineering design.
+* **Python** — *Intermediate Level*: Applied in undergraduate project and data analytics.
+* **ANSYS (Workbench)** — *Intermediate Level*: Applied in finite element modeling for undergraduate project and thesis analysis.
+* **SimScale** — *Intermediate Level*: Applied in 3D CFD flow mixing and heat transfer enhancement analysis using hexahedral meshing.
+* **SolidWorks & AutoCAD** — *Intermediate Level*: Applied in 3D CAD modeling, prototyping, and mechanical fabrication drawings across undergraduate projects.
+* **COMSOL Multiphysics** — *Intermediate Level*: Applied in thesis multiphysics modeling and FEA validation.
+* **Abaqus** — *Introductory Level*: Applied in finite element structural and stress analysis for thesis research.
+* **HTRI** — *Introductory Level*: Applied in heat exchanger rating and thermal equipment design in academic project and professional industrial evaluation.
+* **LaTeX** — *Beginner to Intermediate Level*: Applied in undergraduate thesis book composition and academic manuscript drafting.
+* **Microsoft Office Suite (Excel, Word, PowerPoint)** — *Advanced Level*: Applied in engineering calculations, data-driven reporting, technical presentations, and daily workflows.
+* **Canva** — *Advanced Level*: Applied across various projects, theses, programs, and professional presentations.
+* **SAP (PM Module)**: Applied in plant maintenance management and technical asset integrity workflows.
+
+### **Analytical & Integrity Engineering**
+* **Failure Analysis & Root-Cause Investigation (RCA):** Root-cause failure analysis, damage-mechanism identification (API 571), material degradation and corrosion mechanism assessment.
+* **Structural & Asset Integrity Assessment:** Remaining-life evaluation, Fitness-for-Service (FFS) screening, corrosion-rate calculations, and Strategic Inspection Planning.
+* **Inspection & Quality Verification:** Non-Destructive Examination (NDE: VT, PT, MT, UT per ASME Sec V), hydrostatic and pneumatic pressure testing, weld inspection (ASME Sec IX, AWS D1.1), and protective coating inspection (SSPC/NACE).
+* **Codes & Standards:** API 510, API 570, API 653, API 598, API 526/527/576, API RP 571, RP 572, RP 573, RP 574, RP 583, API RP 750; ASME BPVC (Sec I, Sec V, Sec VIII Div. 1, Sec IX); ASME B31 Series (B31.3), B36, B16.
+
+### **Operations & Quality Management**
+* **Management Systems & Quality:** ISO 9001:2015 QMS Internal Auditor, ISO 14001:2015 EMS Internal Auditor, HSE compliance, asset & inventory management, spare-parts procurement coordination.
+* **Leadership & Cross-Functional Coordination:** Team supervision and mentoring, stakeholder management, cross-functional coordination (Production, Maintenance, Planning, EHS, Supply Chain), technical presentations.
 
 ---
 

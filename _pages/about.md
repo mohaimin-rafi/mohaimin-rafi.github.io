@@ -25,20 +25,3 @@ These experiences have strengthened my interest in understanding the mechanical 
 * **Numerical Modeling**
 * **Nanomaterials**
 * **Material Failure Analysis**
-
----
-
-## Current Role & Academic Background
-
-* **Assistant Engineer — Plant Inspection & Integrity**, Bashundhara Oil & Gas Company Limited (BOGCL) *(Jan 2026 – Present)*
-* **B.Sc. in Mechanical Engineering**, Bangladesh University of Engineering and Technology (BUET) *(Feb 2020 – Mar 2025)* | CGPA: 3.30 / 4.00
-* **Undergraduate Thesis:** *Multiphysics Modeling of Hybrid Laminated Composite Conductors Under a DC Field* (Supervisor: Dr. Shaikh Reaz Ahmed, Professor, Dept. of Mechanical Engineering, BUET)
-
----
-
-## Explore
-
-* [**Education & Skills**](/education/): Formal academic degrees, relevant coursework, certifications, online courses, and technical competencies.
-* [**Research & Projects**](/research-projects/): Undergraduate thesis, academic engineering projects, and research publications/manuscripts with presentation decks.
-* [**Job Experiences**](/experience/): Detailed industrial experience at Bashundhara Oil & Gas Company Ltd., Abul Khair Group, BAT Bangladesh, and leadership roles.
-* [**Curriculum Vitae (CV)**](/cv/): Comprehensive, printable CV.
