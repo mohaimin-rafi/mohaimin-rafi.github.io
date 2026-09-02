@@ -11,13 +11,13 @@ main:
   - title: "About"
     url: /
 
-  - title: "Education & Training"
+  - title: "Education"
     url: /education/
 
-  - title: "Research & Projects"
+  - title: "Publications"
     url: /research-projects/
 
-  - title: "Job Experiences"
+  - title: "Experience"
     url: /experience/
 
   - title: "CV"

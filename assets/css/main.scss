@@ -110,16 +110,20 @@ h3, h4, h5, h6 {
   backdrop-filter: blur(16px) !important;
   -webkit-backdrop-filter: blur(16px) !important;
   border-bottom: 1px solid #1E232E !important;
-  position: sticky !important;
+  position: fixed !important;
   top: 0;
   z-index: 100;
+}
+
+.masthead__menu-item {
+  background-color: transparent !important;
 }
 
 .masthead__menu-item a {
   color: #94A3B8 !important;
   font-weight: 500 !important;
-  font-size: 0.92rem !important;
-  padding: 0.45rem 0.9rem !important;
+  font-size: 0.85rem !important;
+  padding: 0.4rem 0.6rem !important;
   border-radius: 8px !important;
   transition: all 0.2s ease !important;
 
@@ -304,7 +308,8 @@ a {
   background: #07080A !important;
   border-top: 1px solid #1E232E !important;
   color: #64748B !important;
-  padding: 2.5rem 0 !important;
+  padding: 1.25rem 0 !important;
+  font-size: 0.82rem !important;
 
   a {
     color: #94A3B8 !important;
@@ -313,6 +318,15 @@ a {
       color: #E2E8F0 !important;
     }
   }
+}
+
+.page__footer-follow {
+  display: none !important;
+}
+
+.page__footer-copyright {
+  font-size: 0.78rem !important;
+  color: #475569 !important;
 }
 
 /* Card and Box Layout Architecture (Inspired by mohaimin-rafi/web) */
