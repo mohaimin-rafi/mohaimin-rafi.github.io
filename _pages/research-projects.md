@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Research Publications & Manuscripts
+## Publications (Pending)
 
 ### 📄 <a href="/files/Electro_Thermo_Mechanical_Coupling_Manuscript.pdf" target="_blank">Electro-thermo-mechanical coupling in functionally-graded composite laminates: A Displacement-Function approach</a>
 **Authors:** Md Shah Wali Ullah, Tonima Islam, **Mohammad Abdul Mohaimin**, Md Nahid Shahriare, S Reaz Ahmed  

@@ -42,7 +42,7 @@ Mechanical Engineering graduate from Bangladesh University of Engineering and Te
 
 ---
 
-## PUBLICATIONS & MANUSCRIPTS
+## PUBLICATIONS (PENDING)
 
 ### **Electro-thermo-mechanical coupling in functionally-graded composite laminates: A Displacement-Function approach**
 *Authors:* Md Shah Wali Ullah, Tonima Islam, **Mohammad Abdul Mohaimin**, Md Nahid Shahriare, S Reaz Ahmed  
@@ -158,7 +158,7 @@ University-curriculum-required industrial attachment focused on wastewater treat
 ## CERTIFICATIONS & PROFESSIONAL TRAINING
 * **ISO 9001:2015 Quality Management System (QMS) Internal Auditor** — Certified by Bashundhara Oil & Gas Company Ltd., 2026
 * **ISO 14001:2015 Environmental Management System (EMS) Internal Auditor** — Training by Bashundhara Oil & Gas Company Ltd., 2026
-* **Pressure Vessel Design, Fabrication, Inspection, and Testing as per ASME BPVC** — Short Course, BUET Department of Continuing Education (DCE)
+* **Pressure Vessel Design, Fabrication, Inspection, and Testing as per ASME BPVC** — Short Course, Directorate of Continuing Education (DCE), Bangladesh University of Engineering and Technology (BUET)
 
 ---
 

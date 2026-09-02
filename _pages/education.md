@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education & Skills"
+title: "Education & Training"
 permalink: /education/
 author_profile: true
 ---
@@ -34,7 +34,7 @@ author_profile: true
 * **ISO 14001:2015 Environmental Management System (EMS) Internal Auditor**  
   *Training by Bashundhara Oil & Gas Company Ltd., 2026*
 * **Pressure Vessel Design, Fabrication, Inspection, and Testing as per ASME BPVC**  
-  *Short Course, BUET Department of Continuing Education (DCE)*
+  *Short Course, Directorate of Continuing Education (DCE), Bangladesh University of Engineering and Technology (BUET)*
 
 ---
 
