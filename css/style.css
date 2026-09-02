@@ -153,8 +153,13 @@ h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; color: #F1F5F9; font-
   border: 1px solid #222836;
   border-radius: 16px;
   padding: 1.75rem 1.5rem;
-  position: sticky;
-  top: 80px;
+}
+
+@media (min-width: 901px) {
+  .profile-card {
+    position: sticky;
+    top: 80px;
+  }
 }
 
 .profile-header {
