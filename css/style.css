@@ -33,7 +33,14 @@ img { max-width: 100%; display: block; }
 .font-serif { font-family: 'Instrument Serif', 'Newsreader', Georgia, serif; }
 .font-mono  { font-family: 'JetBrains Mono', monospace; }
 
-h1, h2 { font-family: 'Instrument Serif', 'Newsreader', Georgia, serif; font-style: italic; color: #FFFFFF; font-weight: 700; }
+h1, h2 {
+  font-family: 'Instrument Serif', 'Newsreader', Georgia, serif;
+  font-style: italic;
+  color: #FFFFFF;
+  font-weight: 700;
+  letter-spacing: 0.035em;
+  word-spacing: 0.06em;
+}
 h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; color: #F1F5F9; font-weight: 700; }
 
 /* --- Layout --- */
@@ -145,9 +152,17 @@ h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; color: #F1F5F9; font-
   background: #11141C;
   border: 1px solid #222836;
   border-radius: 16px;
-  padding: 1.5rem;
+  padding: 1.75rem 1.5rem;
   position: sticky;
   top: 80px;
+}
+
+.profile-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 1.25rem;
 }
 
 .profile-avatar {
@@ -159,58 +174,59 @@ h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; color: #F1F5F9; font-
   box-shadow: 0 0 25px rgba(96,165,250,0.15), 0 8px 20px -4px rgba(0,0,0,0.5);
   padding: 3px;
   background: #11141C;
-  margin-bottom: 1rem;
+  margin: 0 auto 1rem auto;
+  display: block;
 }
 
 .profile-name {
   font-family: 'Instrument Serif', Georgia, serif;
   font-style: italic;
-  font-size: 1.65rem;
+  font-size: 1.75rem;
   font-weight: 700;
+  letter-spacing: 0.035em;
   color: #FFFFFF;
-  line-height: 1.2;
-  margin-bottom: 0.25rem;
-}
-
-.profile-headline {
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: #93C5FD;
-  line-height: 1.4;
-  margin-bottom: 0.15rem;
-}
-
-.profile-sub {
-  font-size: 0.78rem;
-  color: #94A3B8;
-  margin-bottom: 1rem;
+  line-height: 1.25;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .profile-info {
   border-top: 1px solid #222836;
-  padding-top: 0.75rem;
+  padding-top: 1.25rem;
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 0.75rem;
   font-size: 0.82rem;
   color: #94A3B8;
+  text-align: left;
 }
 
 .profile-info-item {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  justify-content: flex-start;
+  gap: 0.75rem;
+  text-align: left;
 }
 
-.profile-info-item i { color: #60A5FA; width: 1rem; text-align: center; font-size: 0.85rem; }
+.profile-info-item i {
+  color: #60A5FA;
+  width: 1.2rem;
+  text-align: center;
+  font-size: 0.95rem;
+  flex-shrink: 0;
+}
 
-.profile-social {
-  display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-  margin-top: 0.75rem;
-  padding-top: 0.75rem;
-  border-top: 1px solid #222836;
+.profile-info-item span,
+.profile-info-item a {
+  color: #CBD5E1;
+  text-decoration: none;
+  line-height: 1.4;
+  transition: color 0.15s ease;
+}
+
+.profile-info-item a:hover {
+  color: #60A5FA;
 }
 
 .social-btn {
@@ -346,7 +362,11 @@ h3, h4, h5 { font-family: 'Plus Jakarta Sans', sans-serif; color: #F1F5F9; font-
 
 /* --- Section Headers --- */
 .section-title {
-  font-size: 2.4rem;
+  font-family: 'Instrument Serif', 'Newsreader', Georgia, serif;
+  font-style: italic;
+  font-size: 2.5rem;
+  letter-spacing: 0.035em;
+  word-spacing: 0.05em;
   margin-bottom: 1.5rem;
   color: #FFFFFF;
 }
