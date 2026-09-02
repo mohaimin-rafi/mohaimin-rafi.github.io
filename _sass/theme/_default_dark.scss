@@ -36,21 +36,21 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$primary-color};
-    --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
-    --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : #{$light-gray};
-    --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$primary-color};
-    --global-text-color                 : #{$text};
-    --global-text-color-light           : #f3f3f3;
-    --global-thead-color                : #{$background-lighter};
+    --global-base-color                 : #60A5FA;
+    --global-bg-color                   : #0A0B0D;
+    --global-footer-bg-color            : #07080A;
+    --global-border-color               : #222836;
+    --global-dark-border-color          : #2D3748;
+    --global-code-background-color      : #11141C;
+    --global-code-text-color            : #93C5FD;
+    --global-fig-caption-color          : #94A3B8;
+    --global-link-color                 : #60A5FA;
+    --global-link-color-hover           : #93C5FD;
+    --global-link-color-visited         : #93C5FD;
+    --global-masthead-link-color        : #94A3B8;
+    --global-masthead-link-color-hover  : #FFFFFF;
+    --global-text-color                 : #E5E7EB;
+    --global-text-color-light           : #94A3B8;
+    --global-thead-color                : #161C26;
 }
 
